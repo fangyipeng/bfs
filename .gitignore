@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+
+# zip
+*.zip
+*.7z
+*.rar
+
+
+#files
+*.txt
+*.in
+*.out
+
+#music
+*.mp3
+*.mp4
